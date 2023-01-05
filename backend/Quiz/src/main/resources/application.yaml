@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:Mysql://walab.handong.edu:3306/23_Camp4
+    username: 23_Camp4
+    password: YiwICQFkpMsZzUxB
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        format_sql: true
+        default_batch_fetch_size: 100
+  h2:
+    console:
+      enabled: false
+logging:
+  level:
+    org.hibernate.SQL: debug
+    org.hibernate.type: trace
