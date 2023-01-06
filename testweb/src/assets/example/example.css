@@ -1,0 +1,34 @@
+.start {
+  margin-top: 20%;
+  text-align: center;
+}
+
+.question {
+  text-align: center;
+}
+
+.question-des {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.loading {
+  text-align: center;
+  margin-top: 20%;
+}
+
+.result {
+  text-align: center;
+}
+
+.result-name {
+  margin-top: 10%;
+}
+
+.result-img {
+  margin-top: 10%;
+}
+
+.result-detail {
+  margin-top: 10%;
+}

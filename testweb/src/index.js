@@ -4,6 +4,8 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./app/App";
 import reportWebVitals from "./reportWebVitals";
 
+import "./assets/example/example.css";
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
