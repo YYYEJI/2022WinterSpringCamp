@@ -7,7 +7,7 @@ function List(props) {
   if(props.value===3) {return <h3>논리적인 문제를 푸는 것을 좋아하는가?</h3>};
   if(props.value===4) {return <h3>원하는대로 안 됐을 때 포기가 빠른가? </h3>};
   if(props.value===5) {return <h3>애매모호한 것을 싫어하고 <br></br>원인과 결과가 분명한 것을 좋아하는가?</h3>};
-  if(props.value===6) {return <h3>순수 이론적인 보다는 <br></br>실생활에 직접 응용하는 것을 좋아하는가?</h3>};
+  if(props.value===6) {return <h3>순수 이론적인 것보다는 <br></br>실생활에 직접 응용하는 것을 좋아하는가?</h3>};
   if(props.value===7) {return <h3>문제를 해결하고자 하는 열정이 있는가?</h3>};
   if(props.value===8) {return <h3>영어로 읽는 문서에 대한 어려움은 없는가? </h3>};
   if(props.value===9) {return <h3>독학에 대한 어려움은 없는가? </h3>};

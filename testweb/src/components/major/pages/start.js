@@ -88,7 +88,7 @@ function Start() {
           <Link to="/major/question">테스트 시작하기</Link>
           </button>
 
-          <div className="">참여자수: ???</div>
+          {/* <div className="">참여자수: ???</div> */}
           <FlexContainer>
             <h5>↓  친구들한테 공유하기  ↓</h5>
             <GridContainer>
