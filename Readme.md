@@ -1,6 +1,6 @@
-# Individual Test Web Page - Major Test
+# Individual Test Web Page  -  Major Test
 
-## Start page
+## Start page 
 
 ![startpage](img/startpage.gif)
 
